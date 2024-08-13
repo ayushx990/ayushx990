@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayushx990
+- 👋 Hi, I’m Ayush chakarborthy
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...coding
 - 💞️ I’m looking to collaborate on ...coding
